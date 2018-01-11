@@ -1,0 +1,15 @@
+# original Script created by: Harrison Kinsley
+# Threading added by: Jeff Beougher
+
+# For data-creatorMT.py the following applies
+# run this script from the .\Halite2_Python3_Windows\logs as python ..\data-creatorMT.py --runs # --workers # --cycles #
+# you will need to create a logs directory as a child of the Halite2_Python3_Windows
+# "#" needs to be an integer
+# parellel python will need to be installed and a change to pp.py will need to be added  for python 3 on windows see pp forums for help
+# https://www.parallelpython.com/component/option,com_smf/Itemid,29/topic,786.msg2038#msg2038
+# https://www.parallelpython.com/
+
+
+# For appendData.py the following applies
+# run this from the root directory .\Halite2_Python3_Windows "python appendData.py"
+# the program handles the rest of the processing of data
